@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "Scraper to get bibtex entries for VizSec papers.",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "~0.10.8",
+    "request": "~2.16.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgoodall/vizsec-scraper.git"
+  },
+  "keywords": [
+    "vizsec",
+    "bibtex",
+    "scraper"
+  ],
+  "author": "John Goodall",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
